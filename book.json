@@ -11,7 +11,8 @@
         "search-pro",
         "chapter-fold",
         "back-to-top-button",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "katex
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
