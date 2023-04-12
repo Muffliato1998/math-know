@@ -3,7 +3,7 @@
 ## 🐤 前置知识
 
 * [学习资源](README.md)
-* [三角函数](qian-zhi-zhi-shi/summary.md)
+* [三角函数](qian-zhi-zhi-shi/san-jiao-han-shu.md)
 * [对数函数](qian-zhi-zhi-shi/dui-shu-han-shu.md)
 
 ## 🦅 高等数学
