@@ -5,6 +5,6 @@
     "plugins": [
         "code",
         "copy-code-button",
-        "livereload","-lunr", "-search", "search-pro"
+        "livereload","-lunr", "-search", "search-pro","chapter-fold"
     ]
 }
