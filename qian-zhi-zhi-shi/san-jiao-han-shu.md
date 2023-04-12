@@ -9,11 +9,3 @@
 | 余切（cot） | $cotA=\dfrac b a$                                  | $tan\theta=\dfrac x y$                                                                         |
 | 正割（sec） | $secA=\dfrac c b$                                  | $sec\theta=\dfrac r x$                                                                         |
 | 余割（csc） | $cscA=\dfrac c a$                                  | $csc\theta=\dfrac r y$                                                                         |
-
-
-
-
-
-
-
-
