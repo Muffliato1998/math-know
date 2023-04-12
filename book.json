@@ -12,7 +12,7 @@
         "chapter-fold",
         "back-to-top-button",
         "tbfed-pagefooter",
-        "katex
+        "katex"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
