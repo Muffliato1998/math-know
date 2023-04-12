@@ -10,39 +10,5 @@
 | 正割（sec） | $$secA=\dfrac c b$$ | $$sec\theta=\dfrac r x$$ |
 | 余割（csc） | $$cscA=\dfrac c a$$ | $$csc\theta=\dfrac r y$$ |
 
-```
-
-```
-
-```
-$$$$
-```
-
-```
-
-```
-
-```
-
-```
-
-
-$$
-\int\_{-\infty}^\infty g\(x\) dx
-$$
-
-
-```
-
-```
-
-```
-
-```
-
-```
-{% math %}\int_{-\infty}^\infty g(x) dx{% endblock %}
-```
-
 
 
