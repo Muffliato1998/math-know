@@ -5,12 +5,17 @@
     "plugins": [
         "code",
         "copy-code-button",
-        "livereload","-lunr", "-search", "search-pro","chapter-fold","back-to-top-button","tbfed-pagefooter"
-
+        "livereload",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "chapter-fold",
+        "back-to-top-button",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
-            "copyright":"",
+            "copyright": "",
             "modify_label": "该文件最后修改时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
