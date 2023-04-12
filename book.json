@@ -4,6 +4,7 @@
     },
     "plugins": [
         "code",
-        "copy-code-button"
+        "copy-code-button",
+        "livereload"
     ]
 }
