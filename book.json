@@ -7,7 +7,7 @@
         "copy-code-button",
         "livereload","-lunr", "-search", "search-pro","chapter-fold","back-to-top-button","tbfed-pagefooter"
 
-    ]
+    ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
             "copyright":"",
