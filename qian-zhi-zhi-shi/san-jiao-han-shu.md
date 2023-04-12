@@ -2,7 +2,7 @@
 
 |         | 锐角三角函数                                             | 任意角三角函数                                                                                        |
 | ------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 图形      |  | <img src="file:///D:/project/math-know/.gitbook/assets/rysj.jpg" title="" alt="x" width="170"> |
+| 图形      | ![](/.gitbook/assets/sjx.jpg) | ![](/.gitbook/assets/rysj.jpg) |
 | 正弦（sin） | $sinA=\dfrac a c$                                  | $sin\theta=\dfrac y r$                                                                         |
 | 余弦（cos） | $cosA=\dfrac b c$                                  | $cos\theta=\dfrac x r$                                                                         |
 | 正切（tan） | $tanA=\dfrac a b$                                  | $sin\theta=\dfrac y x$                                                                         |
