@@ -1,6 +1,6 @@
 {
     "structure": {
-        "readme": "myIntro.md"
+        "readme": "README.md"
     },
     "plugins": [
         "mathjax"
