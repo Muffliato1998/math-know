@@ -3,6 +3,7 @@
         "readme": "README.md"
     },
     "plugins": [
-        "code"
+        "code",
+        "copy-code-button"
     ]
 }
