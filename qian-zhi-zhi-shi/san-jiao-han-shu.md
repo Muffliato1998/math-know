@@ -71,11 +71,60 @@ $$
 1. 当 $$k$$ 是偶数时，函数名不变；当 $$k$$ 为奇数时，变为异名函数值；  
 2. 符号根据 $$\alpha$$ 为锐角时，原函数值的符号。
 
-| 公式一 | 公式二 | 公式三 | 公式四 | 公式五 |
-| :---: | :---: | :---: | :---: | :---: |
-| $$sin(2k\pi+\alpha)=sin\alpha$$$$cos(2k\pi+\alpha)=cos\alpha$$$$tan(2k\pi+\alpha)=tan\alpha$$$$cot(2k\pi+\alpha)=cot\alpha$$$$sec(2k\pi+\alpha)=sec\alpha$$$$csc(2k\pi+\alpha)=csc\alpha$$ | $$sin(\pi+\alpha)=-sin \alpha$$$$cos(\pi+\alpha)=-cos \alpha$$$$tan (\pi+\alpha)=tan \alpha$$$$cot(\pi+\alpha)=cot\alpha$$$$sec(\pi+\alpha)=-sec\alpha$$$$csc(\pi+\alpha)=-csc\alpha$$ | $$sin (-\alpha)=-sin \alpha$$$$cos (-\alpha)=cos \alpha$$$$tan (-\alpha)=-tan \alpha$$$$cot (-\alpha)=-cot \alpha$$$$sec (-\alpha)=sec \alpha$$$$csc (-\alpha)=-csc \alpha$$ | $$sin(\pi-\alpha)=sin\alpha$$$$cos(\pi-\alpha)=-cos\alpha$$$$tan(\pi-\alpha)=-tan\alpha$$$$cot(\pi-\alpha)=-cot\alpha$$$$sec(\pi-\alpha)=-sec\alpha$$$$csc(\pi-\alpha)=csc\alpha$$ | $$sin(2\pi-\alpha)=-sin\alpha$$$$cos(2\pi-\alpha)=cos\alpha$$$$tan(2\pi-\alpha)=-tan\alpha$$$$cot(2\pi-\alpha)=-cot \alpha$$$$sec(2\pi-\alpha)=sec\alpha$$$$csc(2\pi-\alpha)=-csc\alpha$$ |
-|  |  |  | 公式六 | 公式七 |
-|  |  |  | $$sin(\frac{\pi}{2}+\alpha)=cos\alpha$$$$cos(\frac{\pi}{2}+\alpha)=−sin\alpha$$$$tan(\frac{\pi}{2}+\alpha)=-cot\alpha$$$$cot(\frac{\pi}{2}+\alpha)=-tan\alpha$$$$sec(\frac{\pi}{2}+\alpha)=-csc\alpha$$$$csc(\frac{\pi}{2}+\alpha)=sec\alpha$$ | $$sin(\frac{\pi}{2}-\alpha)=cos\alpha$$$$cos(\frac{\pi}{2}-\alpha)=sin\alpha$$$$tan(\frac{\pi}{2}-\alpha)=cot\alpha$$$$cot(\frac{\pi}{2}-\alpha)=tan\alpha$$$$sec(\frac{\pi}{2}-\alpha)=csc\alpha$$$$csc(\frac{\pi}{2}-\alpha)=sec\alpha$$ |
+公式一
+$$sin(2k\pi+\alpha)=sin\alpha$$
+$$cos(2k\pi+\alpha)=cos\alpha$$
+$$tan(2k\pi+\alpha)=tan\alpha$$
+$$cot(2k\pi+\alpha)=cot\alpha$$
+$$sec(2k\pi+\alpha)=sec\alpha$$
+$$csc(2k\pi+\alpha)=csc\alpha$$
+
+公式二
+$$sin(\pi+\alpha)=-sin \alpha$$
+$$cos(\pi+\alpha)=-cos \alpha$$
+$$tan (\pi+\alpha)=tan \alpha$$
+$$cot(\pi+\alpha)=cot\alpha$$
+$$sec(\pi+\alpha)=-sec\alpha$$
+$$csc(\pi+\alpha)=-csc\alpha$$
+
+公式三
+$$sin (-\alpha)=-sin \alpha$$
+$$cos (-\alpha)=cos \alpha$$
+$$tan (-\alpha)=-tan \alpha$$
+$$cot (-\alpha)=-cot \alpha$$
+$$sec (-\alpha)=sec \alpha$$
+$$csc (-\alpha)=-csc \alpha$$
+
+公式四
+$$sin(\pi-\alpha)=sin\alpha$$
+$$cos(\pi-\alpha)=-cos\alpha$$
+$$tan(\pi-\alpha)=-tan\alpha$$
+$$cot(\pi-\alpha)=-cot\alpha$$
+$$sec(\pi-\alpha)=-sec\alpha$$
+$$csc(\pi-\alpha)=csc\alpha$$
+
+公式五
+$$sin(2\pi-\alpha)=-sin\alpha$$
+$$cos(2\pi-\alpha)=cos\alpha$$
+$$tan(2\pi-\alpha)=-tan\alpha$$
+$$cot(2\pi-\alpha)=-cot \alpha$$
+$$sec(2\pi-\alpha)=sec\alpha$$
+$$csc(2\pi-\alpha)=-csc\alpha$$
+
+公式六
+$$sin(\frac{\pi}{2}+\alpha)=cos\alpha$$
+$$cos(\frac{\pi}{2}+\alpha)=−sin\alpha$$
+$$tan(\frac{\pi}{2}+\alpha)=-cot\alpha$$
+$$cot(\frac{\pi}{2}+\alpha)=-tan\alpha$$
+$$sec(\frac{\pi}{2}+\alpha)=-csc\alpha$$
+$$csc(\frac{\pi}{2}+\alpha)=sec\alpha$$
+
+$$sin(\frac{\pi}{2}-\alpha)=cos\alpha$$
+$$cos(\frac{\pi}{2}-\alpha)=sin\alpha$$
+$$tan(\frac{\pi}{2}-\alpha)=cot\alpha$$
+$$cot(\frac{\pi}{2}-\alpha)=tan\alpha$$
+$$sec(\frac{\pi}{2}-\alpha)=csc\alpha$$
+$$csc(\frac{\pi}{2}-\alpha)=sec\alpha$$
 
 ## 三角恒等式
 
