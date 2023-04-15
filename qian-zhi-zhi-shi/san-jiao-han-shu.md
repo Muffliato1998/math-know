@@ -17,59 +17,62 @@
 1. 倒数关系：
 
 
-   $$
+$$
    sin\alpha·csc\alpha=1
-   $$
+$$
 
 
 
-   $$
+$$
    cos\alpha·sec\alpha=1
-   $$
+$$
 
 
 
-   $$
+$$
    tan\alpha·cot\alpha=1
-   $$
-
-2. 商数关系：
+$$
 
 
-   $$
+1. 商数关系：
+
+
+$$
    tan\alpha=\dfrac {sin\alpha} {cos\alpha}
-   $$
+$$
 
 
 
-   $$
+$$
    cot\alpha=\dfrac {cos\alpha} {sin\alpha}
-   $$
-
-3. 平方关系：
+$$
 
 
-   $$
+1. 平方关系：
+
+
+$$
    sin^{2}\alpha+cos^{2}\alpha=1
-   $$
+$$
 
 
 
-   $$
+$$
    1+cot^{2}\alpha=csc^{2}\alpha
-   $$
+$$
 
 
 
-   $$
+$$
    1+tan^{2}\alpha=sec^{2}\alpha
-   $$
+$$
+
 
 ## 特殊角
 
 |  | 0 | 30 | 45 | 60 | 90 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| $$sin\alpha$$ | 0 | $$\dfrac 1 2$$ | $$\dfrac {\sqrt{2}} 2$$ | $\dfrac {\sqrt{3}} 2$$ | 1 |
+| $$sin\alpha$$ | 0 | $$\dfrac 1 2$$ | $$\dfrac {\sqrt{2}} 2$$ | $$\dfrac {\sqrt{3}} 2$$ | 1 |
 | $$cos\alpha$$ | 1 | $$\dfrac {\sqrt{3}} 2$$ | $$\dfrac {\sqrt{2}} 2$$ | $$\dfrac 1 2$$ | 0 |
 | $$tan\alpha$$ | 0 | $$\dfrac {\sqrt{3}} 3$$ | 1 | $$\sqrt{3}$$ | 不存在 |
 | $$cot\alpha$$ | 不存在 | $$\sqrt{3}$$ | 1 | $$\dfrac {\sqrt{3}} 3$$ | 0 |
@@ -82,7 +85,7 @@
 | $$y=cosx$$ | 图像 | $$R$$ | $$[-1, 1]$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
 | $$y=tanx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(k\pi,0)(k\in Z)$$ |
 | $$y=secx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
-| $$y=cscx$$ | 图像  | $${x\vert x \neq \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
+| $$y=cscx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
 | $$y=cotx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(\frac{k\pi}{2},0)(k\in Z)$$ |
 
 ## 诱导公式
