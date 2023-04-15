@@ -57,17 +57,17 @@ $$
 
 | 函数 | 图像 | 定义域 | 值域 | 对称轴 | 对称中心 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| $$y=sinx$$ | 图像 | $$R$$ | $$\[-1, 1\]$$ | $$x=k\pi+\frac{\pi}{2}\(k\in Z\)$$ | $$\(k\pi,0\)\(k\in Z\)$$ |
-| $$y=cosx$$ | 图像 | $$R$$ | $$\[-1, 1\]$$ | $$x=k\pi\(k\in Z\)$$ | $$\(k\pi+\frac{\pi}{2},0\)\(k\in Z\)$$ |
-| $$y=tanx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$R$$ | 无 | $$\(k\pi,0\)\(k\in Z\)$$ |
-| $$y=secx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$\(-\infty, -1\]\cup\[1, +\infty\)$$ | $$x=k\pi\(k\in Z\)$$ | $$\(k\pi+\frac{\pi}{2},0\)\(k\in Z\)$$ |
-| $$y=cscx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$\(-\infty, -1\]\cup\[1, +\infty\)$$ | $$x=k\pi+\frac{\pi}{2}\(k\in Z\)$$ | $$\(k\pi,0\)\(k\in Z\)$$ |
-| $$y=cotx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$R$$ | 无 | $$\(\frac{k\pi}{2},0\)\(k\in Z\)$$ |
+| $$y=sinx$$ | 图像 | $$R$$ | $$[-1, 1]$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
+| $$y=cosx$$ | 图像 | $$R$$ | $$[-1, 1]$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
+| $$y=tanx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(k\pi,0)(k\in Z)$$ |
+| $$y=secx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
+| $$y=cscx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
+| $$y=cotx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(\frac{k\pi}{2},0)(k\in Z)$$ |
 
 ## 诱导公式
 
 记忆口诀：奇变偶不变，符号看象限  
-口诀说明：对于任意角度，可以表示为 $$\frac{k\pi}{2}+\alpha \(k\in Z\), \|\alpha\|\lt\frac{\pi}{4}$$  
+口诀说明：对于任意角度，可以表示为 $$\frac{k\pi}{2}+\alpha (k\in Z), |\alpha|\lt\frac{\pi}{4}$$  
 1. 当 $$k$$ 是偶数时，函数名不变；当 $$k$$ 为奇数时，变为异名函数值；  
 2. 符号根据 $$\alpha$$ 为锐角时，原函数值的符号。
 
