@@ -14,7 +14,11 @@
 
 ## 函数关系
 
-1. 倒数关系： $$sin\alpha·csc\alpha=1$$ $$cos\alpha·sec\alpha=1$$ $$tan\alpha·cot\alpha=1$$
+1. 倒数关系： 
+$$
+sin\alpha·csc\alpha=1
+$$
+$$cos\alpha·sec\alpha=1$$ $$tan\alpha·cot\alpha=1$$
 
 2. 商数关系： $$tan\alpha=\dfrac {sin\alpha} {cos\alpha}$$ $$cot\alpha=\dfrac {cos\alpha} {sin\alpha}$$
 
