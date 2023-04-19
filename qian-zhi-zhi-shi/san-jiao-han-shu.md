@@ -246,13 +246,13 @@ $$
 
 
 $$
-tan\dfrac{\alpha}{2} \xRightarrow{商数关系} \dfrac{sin^{2}\dfrac{\alpha}{2}}{sin\dfrac{\alpha}{2}cos\dfrac{\alpha}{2}} \xRightarrow[二倍角公式]{半角公式} \dfrac{1-cos\alpha}{sin\alpha}
+tan\dfrac{\alpha}{2} \xrightarrow{商数关系} \dfrac{sin^{2}\dfrac{\alpha}{2}}{sin\dfrac{\alpha}{2}cos\dfrac{\alpha}{2}} \xrightarrow[二倍角公式]{半角公式} \dfrac{1-cos\alpha}{sin\alpha}
 $$
 
 
 
 $$
-tan\dfrac{\alpha}{2} \xRightarrow{商数关系} \dfrac{sin\dfrac{\alpha}{2}cos\dfrac{\alpha}{2}}{cos^{2}\dfrac{\alpha}{2}} \xRightarrow[二倍角公式]{半角公式} \dfrac{sin\alpha}{1+cos\alpha}
+tan\dfrac{\alpha}{2} \xrightarrow{商数关系} \dfrac{sin\dfrac{\alpha}{2}cos\dfrac{\alpha}{2}}{cos^{2}\dfrac{\alpha}{2}} \xrightarrow[二倍角公式]{半角公式} \dfrac{sin\alpha}{1+cos\alpha}
 $$
 
 
@@ -262,19 +262,19 @@ $$
 
 
 $$
-sin2\alpha=2sin\alpha cos\alpha \xRightarrow{平方关系} \dfrac{2sin\alpha cos\alpha }{sin^{2}\alpha+cos^{2}\alpha} \xRightarrow{同除以cos^{2}\alpha} \dfrac{2tan\alpha}{1+tan\alpha}
+sin2\alpha=2sin\alpha cos\alpha \xrightarrow{平方关系} \dfrac{2sin\alpha cos\alpha }{sin^{2}\alpha+cos^{2}\alpha} \xrightarrow{同除以cos^{2}\alpha} \dfrac{2tan\alpha}{1+tan\alpha}
 $$
 
 
 
 $$
-cos2\alpha=cos^{2}\alpha-sin^{2}\alpha \xRightarrow{平方关系} \dfrac{cos^{2}\alpha-sin^{2}\alpha }{cos^{2}\alpha+sin^{2}\alpha} \xRightarrow{同除以cos^{2}} \dfrac{1-tan\alpha}{1+tan\alpha}
+cos2\alpha=cos^{2}\alpha-sin^{2}\alpha \xrightarrow{平方关系} \dfrac{cos^{2}\alpha-sin^{2}\alpha }{cos^{2}\alpha+sin^{2}\alpha} \xrightarrow{同除以cos^{2}} \dfrac{1-tan\alpha}{1+tan\alpha}
 $$
 
 
 
 $$
-tan2\alpha \xRightarrow{由以上两个公式} \dfrac{\dfrac{2tan\alpha}{1+tan\alpha}}{\dfrac{1-tan\alpha}{1+tan\alpha}} = \dfrac{2tan\alpha}{1-tan\alpha}
+tan2\alpha \xrightarrow{由以上两个公式} \dfrac{\dfrac{2tan\alpha}{1+tan\alpha}}{\dfrac{1-tan\alpha}{1+tan\alpha}} = \dfrac{2tan\alpha}{1-tan\alpha}
 $$
 
 
@@ -290,11 +290,6 @@ $$
 
 ### 和差化积
 
-$$
-
-\xRightArrow{xxx}
-
-$$
 
 ### 三倍角公式
 
