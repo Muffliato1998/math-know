@@ -91,9 +91,9 @@ $$
 ## 诱导公式
 
 记忆口诀：奇变偶不变，符号看象限  
-口诀说明：对于任意角度，可以表示为 $ \frac{k\pi}{2}+\alpha \(k\in Z\), \|\alpha\|\lt\frac{\pi}{4} $   
-1. 当 $k$ 是偶数时，函数名不变；当 $k$ 为奇数时，变为异名函数值；  
-2. 符号根据 $\alpha$ 为锐角时，原函数值的符号。
+口诀说明：对于任意角度，可以表示为 $$\frac{k\pi}{2}+\alpha \(k\in Z\), \|\alpha\|\lt\frac{\pi}{4}$$   
+1. 当 $$k$$ 是偶数时，函数名不变；当 $$k$$ 为奇数时，变为异名函数值；  
+2. 符号根据 $$\alpha$$ 为锐角时，原函数值的符号。
 
 **公式一**  
 $$sin(2k\pi+\alpha)=sin\alpha$$  
@@ -176,7 +176,7 @@ $$
 
 ### 二倍角公式
 
-在两角和与差公式中，假设 $\alpha=\beta$，则：
+在两角和与差公式中，假设 $$\alpha=\beta$$，则：
 
 
 $$
@@ -198,7 +198,7 @@ $$
 
 ### 降幂公式
 
-由函数平方关系 $sin^{2}\alpha+cos^{2}\alpha=1$，依次将余弦的二倍角公式中的 $sin\alpha$ 和 $cos\alpha$ 替换掉，可得：
+由函数平方关系 $$sin^{2}\alpha+cos^{2}\alpha=1$$，依次将余弦的二倍角公式中的 $$sin\alpha$$ 和 $$cos\alpha$$ 替换掉，可得：
 
 
 $$
@@ -212,7 +212,7 @@ cos^{2}\alpha=\dfrac{1+cos2\alpha}{2}
 $$
 
 
-根据以上结果，结合函数商数关系 $tan\alpha=\dfrac{sin\alpha}{cos\alpha}$ 可得：
+根据以上结果，结合函数商数关系 $$tan\alpha=\dfrac{sin\alpha}{cos\alpha}$$ 可得：
 
 
 $$
@@ -222,7 +222,7 @@ $$
 
 ### 半角公式
 
-用 $\dfrac{\alpha}{2}$ 替换降幂公式中的 $\alpha$ 可得：
+用 $$\dfrac{\alpha}{2}$$ 替换降幂公式中的 $$\alpha$$ 可得：
 
 
 $$
@@ -282,7 +282,7 @@ $$
 
 基于两角和与差公式推导：
 
-由 $sin\(\alpha+\beta\)+sin\(\alpha-\beta\)=2sin\alpha cos\beta$ ，得到：
+由 $$sin\(\alpha+\beta\)+sin\(\alpha-\beta\)=2sin\alpha cos\beta$$ ，得到：
 
 
 $$
@@ -290,7 +290,7 @@ sin\alpha cos\beta=\dfrac{[sin(\alpha+\beta)+sin(\alpha-\beta)]}{2}
 $$
 
 
-由 $sin\(\alpha+\beta\)-sin\(\alpha-\beta\)=2cos\alpha sin\beta$ ，得到：
+由 $$sin\(\alpha+\beta\)-sin\(\alpha-\beta\)=2cos\alpha sin\beta$$ ，得到：
 
 
 $$
@@ -298,7 +298,7 @@ cos\alpha sin\beta=\dfrac{[sin(\alpha+\beta)-sin(\alpha-\beta)]}{2}
 $$
 
 
-由 $cos\(\alpha+\beta\)+cos\(\alpha-\beta\)=2cos\alpha cos\beta$ ，得到：
+由 $$cos\(\alpha+\beta\)+cos\(\alpha-\beta\)=2cos\alpha cos\beta$$ ，得到：
 
 
 $$
@@ -306,7 +306,7 @@ cos\alpha cos\beta=\dfrac{[cos(\alpha+\beta)+cos(\alpha-\beta)]}{2}
 $$
 
 
-由 $cos\(\alpha+\beta\)-cos\(\alpha-\beta\)=2sin\alpha sin\beta$ ，得到：
+由 $$cos\(\alpha+\beta\)-cos\(\alpha-\beta\)=2sin\alpha sin\beta$$ ，得到：
 
 
 $$
@@ -316,7 +316,7 @@ $$
 
 ### 和差化积
 
-令 $x=\alpha+\beta$ ，$y=\alpha-\beta$。可知 $\alpha=\dfrac{x+y}{2}$ ，$\beta=\dfrac{x-y}{2}$ 。再根据积化和差公式进行换元可得：
+令 $$x=\alpha+\beta$$ ，$$y=\alpha-\beta$$。可知 $$\alpha=\dfrac{x+y}{2}$$，$$\beta=\dfrac{x-y}{2}$$ 。再根据积化和差公式进行换元可得：
 
 
 $$
