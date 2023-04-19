@@ -2,7 +2,7 @@
 
 $$
 
-xx \xRightArrow{xxx} xx
+xx \xRightarrow{xxx} xx
 
 $$
 
