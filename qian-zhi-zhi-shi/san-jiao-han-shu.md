@@ -81,12 +81,12 @@ $$
 
 | 函数 | 图像 | 定义域 | 值域 | 对称轴 | 对称中心 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| $$y=sinx$$ | 图像 | $$R$$ | $$[-1, 1]$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
-| $$y=cosx$$ | 图像 | $$R$$ | $$[-1, 1]$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
-| $$y=tanx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(k\pi,0)(k\in Z)$$ |
-| $$y=secx$$ | 图像 | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
-| $$y=cscx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
-| $$y=cotx$$ | 图像 | $${x\vert x \neq \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(\frac{k\pi}{2},0)(k\in Z)$$ |
+| $$y=sinx$$ | ![](/.gitbook/assets/zxhs.jpg) | $$R$$ | $$[-1, 1]$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
+| $$y=cosx$$ | ![](/.gitbook/assets/yxhs.jpg) | $$R$$ | $$[-1, 1]$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
+| $$y=tanx$$ | ![](/.gitbook/assets/zqhs.jpg) | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(k\pi,0)(k\in Z)$$ |
+| $$y=secx$$ | ![](/.gitbook/assets/yqhs.jpg) | $${x\vert x \neq k\pi + \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi(k\in Z)$$ | $$(k\pi+\frac{\pi}{2},0)(k\in Z)$$ |
+| $$y=cscx$$ | ![](/.gitbook/assets/zghs.jpg) | $${x\vert x \neq \frac{\pi}{2}}$$ | $$(-\infty, -1]\cup[1, +\infty)$$ | $$x=k\pi+\frac{\pi}{2}(k\in Z)$$ | $$(k\pi,0)(k\in Z)$$ |
+| $$y=cotx$$ | ![](/.gitbook/assets/yghs.jpg) | $${x\vert x \neq \frac{\pi}{2}}$$ | $$R$$ | 无 | $$(\frac{k\pi}{2},0)(k\in Z)$$ |
 
 ## 诱导公式
 
