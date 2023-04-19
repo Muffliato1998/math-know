@@ -91,7 +91,7 @@ $$
 ## 诱导公式
 
 记忆口诀：奇变偶不变，符号看象限  
-口诀说明：对于任意角度，可以表示为 $$\frac{k\pi}{2}+\alpha \(k\in Z\), \|\alpha\|\lt\frac{\pi}{4}$$   
+口诀说明：对于任意角度，可以表示为 $$\frac{k\pi}{2}+\alpha (k\in Z), \|\alpha\|\lt\frac{\pi}{4}$$   
 1. 当 $$k$$ 是偶数时，函数名不变；当 $$k$$ 为奇数时，变为异名函数值；  
 2. 符号根据 $$\alpha$$ 为锐角时，原函数值的符号。
 
@@ -282,7 +282,7 @@ $$
 
 基于两角和与差公式推导：
 
-由 $$sin\(\alpha+\beta\)+sin\(\alpha-\beta\)=2sin\alpha cos\beta$$ ，得到：
+由 $$sin(\alpha+\beta)+sin(\alpha-\beta)=2sin\alpha cos\beta$$ ，得到：
 
 
 $$
@@ -290,7 +290,7 @@ sin\alpha cos\beta=\dfrac{[sin(\alpha+\beta)+sin(\alpha-\beta)]}{2}
 $$
 
 
-由 $$sin\(\alpha+\beta\)-sin\(\alpha-\beta\)=2cos\alpha sin\beta$$ ，得到：
+由 $$sin(\alpha+\beta)-sin(\alpha-\beta)=2cos\alpha sin\beta$$ ，得到：
 
 
 $$
@@ -298,7 +298,7 @@ cos\alpha sin\beta=\dfrac{[sin(\alpha+\beta)-sin(\alpha-\beta)]}{2}
 $$
 
 
-由 $$cos\(\alpha+\beta\)+cos\(\alpha-\beta\)=2cos\alpha cos\beta$$ ，得到：
+由 $$cos(\alpha+\beta)+cos(\alpha-\beta)=2cos\alpha cos\beta$$ ，得到：
 
 
 $$
@@ -306,7 +306,7 @@ cos\alpha cos\beta=\dfrac{[cos(\alpha+\beta)+cos(\alpha-\beta)]}{2}
 $$
 
 
-由 $$cos\(\alpha+\beta\)-cos\(\alpha-\beta\)=2sin\alpha sin\beta$$ ，得到：
+由 $$cos(\alpha+\beta)-cos(\alpha-\beta)=2sin\alpha sin\beta$$ ，得到：
 
 
 $$
@@ -346,9 +346,9 @@ $$
 
 | 函数 | 图像 | 定义域 | 值域 |
 | :---: | :---: | :---: | :---: |
-| $y=arcsin\(x\)$ | 图像 | $\[-1, 1\]$ | $\[-\dfrac{\pi}{2}, \dfrac{\pi}{2}\]$ |
-| $y=arccos\(x\)$ | 图像 | $\[-1, 1\]$ | $\[0, \pi\]$ |
-| $y=arctan\(x\)$ | 图像 | $\(-\infty, +\infty\)$ | $\(-\dfrac{\pi}{2}, \dfrac{\pi}{2}\)$ |
+| $y=arcsin(x)$ | 图像 | $\[-1, 1\]$ | $\[-\dfrac{\pi}{2}, \dfrac{\pi}{2}\]$ |
+| $y=arccos(x)$ | 图像 | $\[-1, 1\]$ | $\[0, \pi\]$ |
+| $y=arctan(x)$ | 图像 | $(-\infty, +\infty)$ | $(-\dfrac{\pi}{2}, \dfrac{\pi}{2})$ |
 
 
 
